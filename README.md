@@ -113,13 +113,13 @@ Asegúrate de tener instalado lo siguiente:
 
   Diagrama de Arquitectura
 
-  !\[Diagrama de Arquitectura](./DiagramaArquitectura.png)
+  !\[Diagrama de Arquitectura](DiagramaArquitectura.png)
 
   
 
   Diagrama de Comunicación de Servicios
 
-  !\[Diagrama de Servicios](./DiagramaComunicacionServicios.png)
+  !\[Diagrama de Servicios](DiagramaComunicacionServicios.png)
 
   
 
